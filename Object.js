@@ -24,7 +24,17 @@ let CapAmerica = {
           console.log("Hello Captain America")
       } 
 
+
 }
 
+
+
+  
+
    console.log(CapAmerica);
+   console.log(CapAmerica.sayhi());
+   console.log(CapAmerica.Name);
+   console.log(CapAmerica.Address.City);
+   console.log(CapAmerica.Friends[2]);
+   console.log(CapAmerica.Friends);
   // console.log(Address);
