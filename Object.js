@@ -37,4 +37,5 @@ let CapAmerica = {
    console.log(CapAmerica.Address.City);
    console.log(CapAmerica.Friends[2]);
    console.log(CapAmerica.Friends);
+   console.log("My new object :" + CapAmerica.Friends);
   // console.log(Address);
